@@ -57,7 +57,7 @@
         }
     }];
 
-    [task resume];
+//    [task resume];
 }
 
 #pragma mark -- DoraemonCellButtonDelegate
