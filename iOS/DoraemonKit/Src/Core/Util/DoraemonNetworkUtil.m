@@ -50,7 +50,7 @@
                 }
             });
         }];
-        [task resume];
+//        [task resume];
     }
 }
 
@@ -81,7 +81,7 @@
             }
         });
     }];
-    [dataTask resume];
+//    [dataTask resume];
 }
 
 // post 请求

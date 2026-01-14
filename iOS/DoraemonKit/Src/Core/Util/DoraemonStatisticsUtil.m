@@ -58,7 +58,7 @@
 //            NSLog(@"%@",str);
 //        }
     }];
-    [task resume];
+//    [task resume];
 }
 
 @end
